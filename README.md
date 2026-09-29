@@ -1,8 +1,8 @@
 # TrabalhoPOO
 
-Nome do projeto: 
+Nome do projeto: SistemaVendas
 Integrantes da equipe: Kaique Santiago De Freitas
-Descrição do sistema:
+Descrição do sistema: Sistema que gerencia produtos, vendas e clientes de uma loja
 Tecnologias utilizadas: Java, JavaFX, MySQL, Jaspersoft
 Como configurar o banco de dados: 
 Como executar o sistema: 
