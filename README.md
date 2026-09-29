@@ -1,4 +1,4 @@
-# Sistema-de-vendas
+# Sistema-de-Vendas
 
 Nome do projeto: Sistema-de-vendas
 Integrantes da equipe: Kaique Santiago De Freitas
